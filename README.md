@@ -1,4 +1,4 @@
-# Ivy-League-Football
+# Ivy League Football
 
 I used Jupyter notebook for this project. Run the `ipynb` file locally to interact with the figure or see the `html` file to see the static version of it.
 
